@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/axi0m.mk
+	$(LOCAL_DIR)/full_grouper.mk
