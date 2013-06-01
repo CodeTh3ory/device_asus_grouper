@@ -18,8 +18,6 @@
 # device
 $(call inherit-product, device/asus/grouper/device.mk)
 
-# axi0m
-$(call inherit-product, device/asus/grouper/axi0m.mk)
 
 # full
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
